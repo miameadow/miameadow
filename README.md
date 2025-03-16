@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mia also known as @miameadow
-- 👀 I’m interested in Software Engineering, Data Analytics/Science, Machine Learning and I absolutely love Japan.
+- 👀 I’m interested in Software Engineering, Artificial Intelligence, Machine Learning and I absolutely love Japan.
 - 🌱 I’m currently learning Python, Automation and AI.
 - 💞️ I’m looking to collaborate on interactive projects that could help grow my programming skills and connect with other programmers.
 - 📫 How to reach me... email me at msmiimiie@gmail.com for work or any fun projects.
